@@ -31,7 +31,3 @@ No installation is required. Just clone the repository or download the files and
 git clone https://github.com/Shiki-12/flipthecoint.git
 # Open coinflip.html in your browser
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
